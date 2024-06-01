@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1010113441957",
+    "project_id": "auth-5f458",
+    "storage_bucket": "auth-5f458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010113441957:android:17637d4f76cbd98a255d4c",
+        "android_client_info": {
+          "package_name": "com.example.mcc_lab_23dec23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010113441957-h4trrdh9anpt8khriuhgcqafotf0nimb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT8vSDXvp5BR7Ef6Re1Ba1ukEKkVXmYrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010113441957-h4trrdh9anpt8khriuhgcqafotf0nimb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010113441957-31ek3gkr3jsdv34sk02iat41h5oujbl6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mccLab23dec23.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/nicholasmatthew/Desktop/FLUTTER_PROJECTS/MCC_PROJECT(Group)/DISHDASH_MCC_PROJECT/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.1"
+    buildFolder="/Users/nicholasmatthew/Desktop/FLUTTER_PROJECTS/MCC_PROJECT(Group)/DISHDASH_MCC_PROJECT/build/app"
+    bootClassPath="/Users/nicholasmatthew/Library/Android/sdk/platforms/android-33/android.jar:/Users/nicholasmatthew/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

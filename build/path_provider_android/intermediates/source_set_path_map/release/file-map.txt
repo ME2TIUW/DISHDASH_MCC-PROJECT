@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-0 /Users/nicholasmatthew/.gradle/caches/transforms-3/30355d4d9c96788faa8c64cededfb7d2/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-1 /Users/nicholasmatthew/.gradle/caches/transforms-3/a2b8b6ef3f4d2546b57341adfe3d7c7e/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-2 /Users/nicholasmatthew/.gradle/caches/transforms-3/d9a83b30835473b5022ab40d40a209f2/transformed/core-1.6.0/res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-3 /Users/nicholasmatthew/.gradle/caches/transforms-3/ee4b6c7ec940412cefc4923d4beb9d01/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.pathprovider.path_provider_android-main-4 /Users/nicholasmatthew/.pub-cache/hosted/pub.dev/path_provider_android-2.2.1/android/src/main/res
+io.flutter.plugins.pathprovider.path_provider_android-release-5 /Users/nicholasmatthew/.pub-cache/hosted/pub.dev/path_provider_android-2.2.1/android/src/release/res
+io.flutter.plugins.pathprovider.path_provider_android-pngs-6 /Users/nicholasmatthew/Desktop/FLUTTER_PROJECTS/MCC_PROJECT(Group)/DISHDASH_MCC_PROJECT/build/path_provider_android/generated/res/pngs/release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-7 /Users/nicholasmatthew/Desktop/FLUTTER_PROJECTS/MCC_PROJECT(Group)/DISHDASH_MCC_PROJECT/build/path_provider_android/generated/res/resValues/release
+io.flutter.plugins.pathprovider.path_provider_android-rs-8 /Users/nicholasmatthew/Desktop/FLUTTER_PROJECTS/MCC_PROJECT(Group)/DISHDASH_MCC_PROJECT/build/path_provider_android/generated/res/rs/release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-9 /Users/nicholasmatthew/Desktop/FLUTTER_PROJECTS/MCC_PROJECT(Group)/DISHDASH_MCC_PROJECT/build/path_provider_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-10 /Users/nicholasmatthew/Desktop/FLUTTER_PROJECTS/MCC_PROJECT(Group)/DISHDASH_MCC_PROJECT/build/path_provider_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-11 /Users/nicholasmatthew/Desktop/FLUTTER_PROJECTS/MCC_PROJECT(Group)/DISHDASH_MCC_PROJECT/build/path_provider_android/intermediates/merged_res/release

@@ -1,0 +1,4 @@
+#Tue Jan 02 18:13:55 WIB 2024
+base.0=/Users/nicholasmatthew/Desktop/FLUTTER_PROJECTS/MCC_PROJECT(Group)/DISHDASH_MCC_PROJECT/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
